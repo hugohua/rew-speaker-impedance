@@ -1,0 +1,4 @@
+interface:
+  display_name: "REW 扬声器阻抗与 T/S 测试"
+  short_description: "用 REW 与 UMC202HD 测量扬声器阻抗、T/S 参数并评估箱体"
+  default_prompt: "使用 $rew-speaker-impedance 检查当前 REW 阻抗测量，分析重复数据并计算 T/S 与密闭箱建议。"
